@@ -13,7 +13,7 @@ function Chip(props: { children: React.ReactNode }) {
 export default function Home() {
   return (
     <>
-      <h2> Next.js on Google Cloud Platform</h2>
+      <h2> Next.js on Firebase</h2>
       <div className="grid auto-cols-max grid-flow-col grid-cols-3 justify-items-center">
         <div className="w-10/12 rounded-xl bg-red-400 p-2 text-center font-mono">
           📈️ Scalable
