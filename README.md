@@ -1,4 +1,4 @@
-# Next.js on Google Cloud Platform
+# Next.js on GCP
 
 This is a demo [Next.js](https://nextjs.org/) project powered by
 GCP's serverless infrastructure.
